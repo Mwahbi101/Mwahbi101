@@ -12,7 +12,7 @@ Keep it simple.
 
 
 ###     Want to connect?
-- <img align="left" alt="Red1 - LinkedIn" width="24px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />[**@mustapha wahbi**][linkedin]
+- <img align="left" alt="Red1 - LinkedIn" width="24px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />[**@Mustapha Wahbi**][linkedin]
 - <img align="left" alt="Red1 - Mail" width="24px" src="https://img.icons8.com/color/48/000000/new-post.png"/> Email me at: **wahbimusstapha@gmail.com**
 
 ## GitHub stats:
