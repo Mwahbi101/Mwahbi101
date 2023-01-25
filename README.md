@@ -12,7 +12,7 @@ Keep it simple.
 
 
 ###     Want to connect?
-- <img align="left" alt="Red1 - LinkedIn" width="24px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />**@mustapha-wahbi**
+- <img align="left" alt="Red1 - LinkedIn" width="24px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />[**mustapha-wahbi**][linkedin]
 - <img align="left" alt="Red1 - Mail" width="24px" src="https://img.icons8.com/color/48/000000/new-post.png"/> Email me at: **wahbimusstapha@gmail.com**
 
 ## GitHub stats:
@@ -20,25 +20,5 @@ Keep it simple.
 ![Mw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwahbi101&show_icons=true&theme=dracula&count_private=true) 
 
 
-
-## Languages and Tools:
-
-[vscode]: https://code.visualstudio.com/
-[androidstudio]: https://developer.android.com/studio
-[pycharm]: https://www.jetbrains.com/pycharm/
-[intellij]: https://www.jetbrains.com/idea/
-[html]:https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://www.w3schools.com/css/
-[js]: https://www.javascript.com/
-[reactjs]:https://reactjs.org/
-[reactnative]:https://reactnative.dev/
-[express]:https://expressjs.com/
-[nodejs]:https://nodejs.org/en/
-[python]:https://www.python.org/
-[mysql]:https://www.mysql.com/
-[c]:'https://en.wikipedia.org/wiki/C_(programming_language)'
-[cpp]:https://en.wikipedia.org/wiki/C%2B%2B
-[java]:https://www.oracle.com/java/technologies/
-[git]:https://git-scm.com/
 
 
